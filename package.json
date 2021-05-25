@@ -1,0 +1,27 @@
+{
+  "name": "ada-ticker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudolphh/ada-ticker.git"
+  },
+  "keywords": [
+    "binance",
+    "node",
+    "ada"
+  ],
+  "author": "Rudy A. Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudolphh/ada-ticker/issues"
+  },
+  "homepage": "https://github.com/rudolphh/ada-ticker#readme",
+  "dependencies": {
+    "node-binance-api": "^0.12.5"
+  }
+}
